@@ -6,6 +6,9 @@ I'm Bruno Sarmento,
 - 🌱 I'm currently learning JavaScript, TypeScript, React and (in the near future), Nodejs;
 - 💞️ I'm looking to collaborate and learn in the areas mentioned above;
 <hr>
+<br>
+You can also find me or contact me at:
+<br>
 <div> 
   <a href = "mailto:brunosarmento.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/bruno-sarmento-dev/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
