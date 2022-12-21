@@ -4,7 +4,7 @@ I'm Bruno Sarmento,
 
 - 👀 I am interested in working as a Front-end developer;
 - 🌱 I'm currently learning JavaScript, TypeScript, React and (in the near future), Nodejs;
-- 💞️ I'm looking to collaborate and learn in the areas mentioned above;
+- 💞️ I'm looking to collaborate and learn in the areas mentioned above.
 
 ##
 
