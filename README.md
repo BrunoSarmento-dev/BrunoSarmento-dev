@@ -46,7 +46,7 @@ You can also find me or contact me at:
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 -->
 
-<br><br>
+<br><br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
