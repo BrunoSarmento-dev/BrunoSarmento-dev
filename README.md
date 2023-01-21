@@ -54,7 +54,7 @@ You can also find me or contact me at:
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=BrunoSarmento-dev&show_icons=true&theme=vision-friendly-dark" alt="BrunoSarmento-dev's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSarmento-dev&layout=compact&theme=vision-friendly-dark" alt="BrunoSarmento-dev's most languages"/>
 </p>
-<!--
+
 <br><br>
 
 ## Contact
@@ -69,6 +69,7 @@ You can also find me or contact me at:
 <a href="https://linkedin.com/in/maykbrito" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
+<!--
 <a href="https://instagram.com/maykbrito" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
