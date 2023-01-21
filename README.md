@@ -4,11 +4,11 @@
 
 <!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=BrunoSarmento-dev&color=yellow" alt="Profile views" /> </p> --->
 
-- 🔥 Junior Web Developer & Technologies Enthusiast;
+- 🔥 Junior Web Developer & Technologies Enthusiast
 
 - 👯 Looking to collaborate on web development projects
 
-- 🌱 I’m currently learning **Typescript, React.JS and Node.JS**;
+- 🌱 I’m currently learning **Typescript, React.JS and Node.JS**
 
 You can also find me or contact me at:
 
