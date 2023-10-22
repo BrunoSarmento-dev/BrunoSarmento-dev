@@ -1,8 +1,8 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/BrunoSarmento-dev/c11e27968825c323891d17ffd171d1c1/raw/16507da464173ca42c129eee61ec5f8b09d5b36e/githubcard.svg"/>
+<!--<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/BrunoSarmento-dev/c11e27968825c323891d17ffd171d1c1/raw/16507da464173ca42c129eee61ec5f8b09d5b36e/githubcard.svg"/> -->
 
 <h1 align="left">Hello! I'm Bruno Sarmento <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> </h1>
 
-<!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=BrunoSarmento-dev&color=yellow" alt="Profile views" /> </p> --->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=BrunoSarmento-dev&color=yellow" alt="Profile views" /> </p> -->
 
 - 🔥 <!-- Junior Web Developer & --> Technologies Enthusiast
 
