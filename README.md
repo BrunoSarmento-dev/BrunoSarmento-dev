@@ -16,7 +16,6 @@ You can also find me or contact me at:
   <a href = "mailto:brunosarmento.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/bruno-sarmento-dev/" onclick="window.open(this.href); return false;">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
  </div>
 
 
@@ -44,7 +43,6 @@ You can also find me or contact me at:
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
--->
 
 <br><br>
 
@@ -55,7 +53,7 @@ You can also find me or contact me at:
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSarmento-dev&layout=compact&theme=vision-friendly-dark" alt="BrunoSarmento-dev's most languages"/>
 </p>
 
-<!--
+
 <br><br>
 
 ## Contact
