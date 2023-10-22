@@ -4,7 +4,7 @@
 
 <!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=BrunoSarmento-dev&color=yellow" alt="Profile views" /> </p> --->
 
-- 🔥 <!--- Junior Web Developer & ---> Technologies Enthusiast
+- 🔥 <!-- Junior Web Developer & --> Technologies Enthusiast
 
 - 👯 Looking to collaborate on web development projects
 
