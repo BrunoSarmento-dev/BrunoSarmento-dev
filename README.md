@@ -22,7 +22,7 @@ You can also find me or contact me at:
 
 
 
-<br><br>
+<!-- <br><br> --!>
 <!--
 ## 🛠 &nbsp;Tech Stack
 
