@@ -6,9 +6,9 @@
 
 - 🔥 <!-- Junior Web Developer & --> Technologies Enthusiast
 
-- 👯 Looking to collaborate on web development projects
+- 👯 Looking to collaborate on Python projects
 
-- 🌱 I’m currently learning **Typescript, React.JS and Node.JS**
+- 🌱 I’m currently learning **Python, SQL, FastAPI, Django**
 
 You can also find me or contact me at:
 
