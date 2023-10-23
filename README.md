@@ -8,7 +8,7 @@
 
 - 👯 Looking to collaborate on Python projects
 
-- 🌱 I’m currently learning **Python, Django, SQL & FastAPI**
+- 🌱 I’m currently learning **Python, Django, Flask, SQL & FastAPI**
 
 You can also find me or contact me at:
 
